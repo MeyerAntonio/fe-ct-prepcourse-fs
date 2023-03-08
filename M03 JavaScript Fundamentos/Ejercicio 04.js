@@ -20,13 +20,13 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
    // Retorna el valor de "num" elevado al exponente "exponent".
    // Tu código:
-   return Math.pow(num, expponent);
+   return Math.pow(num, exponent);
 }
 
 function redondearNumero(num) {
    // Redondea "num" al entero más próximo y retórnalo.
    // Tu código:
-   var redondear = Math.round(num)
+   var redondear = Math.round(num);
    return redondear;
 }
 
